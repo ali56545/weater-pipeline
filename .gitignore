@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# CSV / данные
+data/
+*.csv
+
+# Logs
+*.log
+
+# Docker
+docker-compose.override.yml
+*.env
+
+# PyCharm
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
