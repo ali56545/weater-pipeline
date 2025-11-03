@@ -1,0 +1,10 @@
+cities:
+  - name: Bishkek
+    lat: 42.87
+    lon: 74.59
+  - name: Almaty
+    lat: 43.238949
+    lon: 76.889709
+  - name: Tashkent
+    lat: 41.2995
+    lon: 69.2401
